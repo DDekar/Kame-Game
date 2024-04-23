@@ -1,0 +1,50 @@
+.logotipo{
+    width: 130px;
+    height: 130px;
+    border-radius: 95px;
+    border: solid white;
+}
+.fotoperfil{
+    width: 140px;
+    height: 140px;
+    border-radius: 80px;
+    margin-left: 70px;
+    border: solid black;
+
+}
+.perfil{
+    max-width: 18rem;
+    margin-left: 30%;
+
+}
+
+.producto{
+    width: 260px;
+    height: 230px;
+    padding-left: 10px;
+
+}
+
+.cuadro{
+    max-width: 20rem;
+    margin-left: 45px;
+}
+
+input[type="number"]{
+    width: 50px;
+    margin-bottom: 5px; /* Espacio entre el input y la imagen */
+    float: right;
+}
+#op{
+    float: right;
+}
+
+.cuadrol{
+    max-width: 30rem;
+    margin-left: 24%;
+}
+
+h2{
+    text-align: center;
+
+}
